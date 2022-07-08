@@ -81,7 +81,7 @@ This is a standalone environment that runs on Docker Compose and the monitoring 
 ### Prerequisites
 
 This service was built on Ubuntu 22.04. Hasn't been tested anywhere else and I cannot guarantee functionality.
-* npm
+* Installing Docker-Compose
   ```sh
   sudo apt install apt-transport-https ca-certificates curl software-properties-common
   curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
