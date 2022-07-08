@@ -106,11 +106,11 @@ This service was built on Ubuntu 22.04. Hasn't been tested anywhere else and I c
 
 1. Clone the repo
    ```sh
-   gh repo clone cskujawa/jarvis-ai
+   gh repo clone cskujawa/jarvis-scaffolding
    ```
 2. Change to project directory
    ```sh
-   cd jarvis-ai
+   cd jarvis-scaffolding
    ```
 3. Copy or create the environment file
 4. Build the project
